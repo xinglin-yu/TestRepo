@@ -1,3 +1,4 @@
 update github merge rules
 add 2 rows
 3 rows
+master pull: 4 rows
